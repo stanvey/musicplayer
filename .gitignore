@@ -1,0 +1,20 @@
+# Build outputs
+bin/
+obj/
+Publish/
+
+# .NET
+*.user
+*.suo
+*.cache
+*.vs/
+.vscode/
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# App runtime cache
+.mimocode/
+.compose/
