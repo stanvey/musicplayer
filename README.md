@@ -1,6 +1,6 @@
 # 🎵 Music Player
 
-Apple Music 风格的 Windows 本地音乐播放器，支持自动获取专辑封面和同步歌词。
+简单风格的 Windows 本地音乐播放器，支持自动获取专辑封面和同步歌词。
 
 ## 功能
 
